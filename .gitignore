@@ -1,0 +1,11 @@
+# Credentials
+/credential*.json
+
+# data files
+/photos
+
+# Cache files
+__pycache__
+*.swp
+*.swo
+*.swn
